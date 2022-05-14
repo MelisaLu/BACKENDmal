@@ -1,3 +1,9 @@
 div{
     background-color: aquamarine;
 }
+
+#nombre{
+    font-weight: bold;
+    margin-top: 10%;
+}
+
